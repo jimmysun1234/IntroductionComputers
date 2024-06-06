@@ -37,4 +37,3 @@ void sortStudents(Student* students, int numStudents, const char* sortBy) {
         printf("Invalid sortBy parameter: %s\n", sortBy);
     }
 }
-
